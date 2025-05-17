@@ -1,4 +1,4 @@
-Música gerada:
+Música Gerada:
 
 Título: Beijo de Replay
 
