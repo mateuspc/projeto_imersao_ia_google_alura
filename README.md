@@ -1,6 +1,6 @@
 Como alguém que ama tocar violão e se conecta com a música de forma única, sei o quanto pode ser desafiador colocar sentimentos em palavras. Aquele momento em que a melodia surge, mas a letra não acompanha... foi assim que surgiu a ideia do meu projeto!"
 
-Apresento para vocês o Gerador de Letras de Músicas, pensado especialmente para quem, como eu, ama tocar e criar, mas às vezes trava na hora de compor. Com o poder da inteligência artificial, conseguimos transformar simples ideias em letras completas, desde inspiradoras totalmente originais em segundos! Para ver se a letra gerada ficou boa mesmo, coloquei um harmônia e o resultado esta no link que deixei na descrição do meu projeto no github, bateu a curiosidade né ? ,
+Apresento para vocês o Gerador de Letras de Músicas, pensado especialmente para quem, como eu, ama tocar e criar, mas às vezes trava na hora de compor. Com o poder da inteligência artificial, conseguimos transformar simples ideias em letras completas, desde inspiradoras totalmente originais em segundos! Para ver se a letra gerada ficou boa mesmo, coloquei uma harmônia e o resultado esta no link que deixei abaixo, bateu a curiosidade né ? ,
 
 Ouvir músicas:
 
